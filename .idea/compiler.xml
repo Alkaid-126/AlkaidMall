@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="AlkaidMall-bean" />
+        <module name="AlkaidMall-commen-util" />
+        <module name="AlkaidMall-interface" />
+        <module name="AlkaidMall-order-web" />
+        <module name="AlkaidMall-service-manager" />
+        <module name="AlkaidMall-service-util" />
+        <module name="AlkaidMall-uer-manager" />
+        <module name="AlkaidMall-web-manager" />
+        <module name="AlkaidMall-web-util" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AlkaidMall-bean" target="1.8" />
+      <module name="AlkaidMall-commen-util" target="1.8" />
+      <module name="AlkaidMall-interface" target="1.8" />
+      <module name="AlkaidMall-order-web" target="1.8" />
+      <module name="AlkaidMall-parent" target="1.8" />
+      <module name="AlkaidMall-service-manager" target="1.8" />
+      <module name="AlkaidMall-service-util" target="1.8" />
+      <module name="AlkaidMall-uer-manager" target="1.8" />
+      <module name="AlkaidMall-web-manager" target="1.8" />
+      <module name="AlkaidMall-web-util" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

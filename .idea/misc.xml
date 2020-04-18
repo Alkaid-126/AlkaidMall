@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/AlkaidMall-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/AlkaidMall-bean/pom.xml" />
+        <option value="$PROJECT_DIR$/AlkaidMall-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/AlkaidMall-commen-util/pom.xml" />
+        <option value="$PROJECT_DIR$/AlkaidMall-service-util/pom.xml" />
+        <option value="$PROJECT_DIR$/AlkaidMall-web-util/pom.xml" />
+        <option value="$PROJECT_DIR$/AlkaidMall-uer-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/AlkaidMall-order-web/pom.xml" />
+        <option value="$PROJECT_DIR$/AlkaidMall-web-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/AlkaidMall-service-manager/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

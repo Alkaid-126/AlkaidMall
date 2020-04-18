@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AlkaidMall.iml" filepath="$PROJECT_DIR$/AlkaidMall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlkaidMall-bean/AlkaidMall-bean.iml" filepath="$PROJECT_DIR$/AlkaidMall-bean/AlkaidMall-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlkaidMall-commen-util/AlkaidMall-commen-util.iml" filepath="$PROJECT_DIR$/AlkaidMall-commen-util/AlkaidMall-commen-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlkaidMall-interface/AlkaidMall-interface.iml" filepath="$PROJECT_DIR$/AlkaidMall-interface/AlkaidMall-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlkaidMall-order-web/AlkaidMall-order-web.iml" filepath="$PROJECT_DIR$/AlkaidMall-order-web/AlkaidMall-order-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlkaidMall-parent/AlkaidMall-parent.iml" filepath="$PROJECT_DIR$/AlkaidMall-parent/AlkaidMall-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlkaidMall-service-manager/AlkaidMall-service-manager.iml" filepath="$PROJECT_DIR$/AlkaidMall-service-manager/AlkaidMall-service-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlkaidMall-service-util/AlkaidMall-service-util.iml" filepath="$PROJECT_DIR$/AlkaidMall-service-util/AlkaidMall-service-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlkaidMall-uer-manager/AlkaidMall-uer-manager.iml" filepath="$PROJECT_DIR$/AlkaidMall-uer-manager/AlkaidMall-uer-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlkaidMall-web-manager/AlkaidMall-web-manager.iml" filepath="$PROJECT_DIR$/AlkaidMall-web-manager/AlkaidMall-web-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlkaidMall-web-util/AlkaidMall-web-util.iml" filepath="$PROJECT_DIR$/AlkaidMall-web-util/AlkaidMall-web-util.iml" />
+    </modules>
+  </component>
+</project>

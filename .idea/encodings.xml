@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/AlkaidMall-bean" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AlkaidMall-commen-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AlkaidMall-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AlkaidMall-order-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AlkaidMall-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AlkaidMall-service-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AlkaidMall-service-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AlkaidMall-uer-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AlkaidMall-web-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AlkaidMall-web-util" charset="UTF-8" />
+  </component>
+</project>
